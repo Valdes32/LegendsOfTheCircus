@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="16" viewBox="0 0 21 16" fill="none">
+    <g clip-path="url(#clip0_70_5623)">
+       <rect width="21" height="5.33" y="0" fill="white"/>   <!-- Верхняя белая -->
+       <rect width="21" height="5.33" y="5.33" fill="#1A47B8"/> <!-- Средняя синяя -->
+      <rect width="21" height="5.34" y="10.66" fill="#F93939"/> <!-- Нижняя красная -->
+    </g>
+    <defs>
+        <clipPath id="clip0_70_5623">
+            <rect y="0.5" width="21" height="15" rx="3" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
